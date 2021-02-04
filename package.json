@@ -1,0 +1,23 @@
+{
+  "name": "react-mua-create-library",
+  "version": "0.0.1",
+  "description": "Yet another handy library by MUA, to create react-packagaes easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maifeeulasad/react-mua-create-library.git"
+  },
+  "keywords": [
+    "library",
+    "react"
+  ],
+  "author": "Maifee Ul Asad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maifeeulasad/react-mua-create-library/issues"
+  },
+  "homepage": "https://github.com/maifeeulasad/react-mua-create-library#readme"
+}
